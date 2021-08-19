@@ -3,7 +3,7 @@ package cli
 import (
 	"flag"
 	"fmt"
-	"github.com/posener/complete"
+	"github.com/shyiko/complete"
 	"io"
 	"os"
 	"path/filepath"
